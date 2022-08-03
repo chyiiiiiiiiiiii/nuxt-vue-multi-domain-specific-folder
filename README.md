@@ -10,7 +10,12 @@
 </div>
 
 ## Introduction
+實現相同專案支援多個子Domain，並顯示指定目錄的網頁內容。
 
+Implement the same project to support multiple sub-domains and display the webpage content of the specific directory.
+
+## Concerns
+- 如果是部署到 Google Cloud Run 上會遇到Domain支援的問題，在設定上會複雜許多，需考慮專案需求是否要在同一個專案上實作
 
 ## Artical
 - [Easily understand StatefulWidget LifeCycle of Flutter](https://yiichenhi.medium.com/easily-understand-statefulwidget-lifecycle-of-flutter-1064ec4ee11e)
