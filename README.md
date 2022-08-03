@@ -1,69 +1,26 @@
 # nuxt-vue-multi-domain-specific-folder
 
-## Build Setup
+<img src="./assets/images/cover.png"></img>
 
-```bash
-# install dependencies
-$ yarn install
+## Demo
+<img src="./assets/images/demo.gif"></img>
+<img src="./assets/images/demo.png"></img>
+<img src="./assets/images/demo_2.png"></img>
 
-# serve with hot reload at localhost:3000
-$ yarn dev
-
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
-```
-
-For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
-
-## Special Directories
-
-You can create the following extra directories, some of which have special behaviors. Only `pages` is required; you can delete them if you don't want to use their functionality.
-
-### `assets`
-
-The assets directory contains your uncompiled assets such as Stylus or Sass files, images, or fonts.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/assets).
-
-### `components`
-
-The components directory contains your Vue.js components. Components make up the different parts of your page and can be reused and imported into your pages, layouts and even other components.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/components).
-
-### `layouts`
-
-Layouts are a great help when you want to change the look and feel of your Nuxt app, whether you want to include a sidebar or have distinct layouts for mobile and desktop.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/layouts).
+## Introduction
 
 
-### `pages`
+## Artical
+- [Easily understand StatefulWidget LifeCycle of Flutter](https://yiichenhi.medium.com/easily-understand-statefulwidget-lifecycle-of-flutter-1064ec4ee11e)
+- [“freezed” makes model class strong and easily](https://yiichenhi.medium.com/freezed-makes-model-class-strong-and-easily-cf5388bb94b7)
+- [What are Async and Isolates in Flutter?](https://ab20803.medium.com/what-are-async-and-isolates-in-flutter-89c14bf6aabe)
+- [LoadBalancer is optimization for Isolates in Flutter](https://ab20803.medium.com/%E5%84%AA%E5%8C%96-flutter-isolates-%E7%9A%84-loadbalancer-87ab57f210e4)
+- [Flutter 3 with some good stuff!](https://yiichenhi.medium.com/flutter-3-%E6%9C%89%E4%BB%80%E9%BA%BC%E6%96%B0%E6%9D%B1%E8%A5%BF-c962e69b5ba0)
 
-This directory contains your application views and routes. Nuxt will read all the `*.vue` files inside this directory and setup Vue Router automatically.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/get-started/routing).
-
-### `plugins`
-
-The plugins directory contains JavaScript plugins that you want to run before instantiating the root Vue.js Application. This is the place to add Vue plugins and to inject functions or constants. Every time you need to use `Vue.use()`, you should create a file in `plugins/` and add its path to plugins in `nuxt.config.js`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/plugins).
-
-### `static`
-
-This directory contains your static files. Each file inside this directory is mapped to `/`.
-
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/static).
-
-### `store`
-
-This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+## About
+Medium：[yiichenhi](https://medium.com/@yiichenhi)<br>
+Linkedin：[yiichenhi](https://www.linkedin.com/in/yiichenhi)</br>
+Youtube：[Yii](https://www.youtube.com/user/a22601807/videos)<br>
+Youtube：[一起饅頭](https://www.youtube.com/channel/UC8-CcCmlIhIGcs9pdxx_BSw/videos])<br>
+Instagram：[yiichenhi](https://www.instagram.com/flutterluvr.yii/)<br>
+Email：ab20803@gmail.com<br>
