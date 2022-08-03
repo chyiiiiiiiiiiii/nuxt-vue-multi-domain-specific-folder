@@ -17,6 +17,18 @@ Implement the same project to support multiple sub-domains and display the webpa
 ## Concerns
 - 如果是部署到 Google Cloud Run 上會遇到Domain支援的問題，在設定上會複雜許多，需考慮專案需求是否要在同一個專案上實作
 
+## Docker
+### Build
+```docker build -t nuxt-multi-domain . --no-cache```
+### Run
+```docker run -d --name nuxt-multi-domain -p 3000:3000 nuxt-multi-domain```
+
+## Run Dev
+```
+yarn install
+yarn dev
+```
+
 ## Artical
 - [Easily understand StatefulWidget LifeCycle of Flutter](https://yiichenhi.medium.com/easily-understand-statefulwidget-lifecycle-of-flutter-1064ec4ee11e)
 - [“freezed” makes model class strong and easily](https://yiichenhi.medium.com/freezed-makes-model-class-strong-and-easily-cf5388bb94b7)
