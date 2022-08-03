@@ -4,8 +4,10 @@
 
 ## Demo
 <img src="./assets/images/demo.gif"></img>
-<img src="./assets/images/demo.png"></img>
-<img src="./assets/images/demo_2.png"></img>
+<div>
+  <img src="./assets/images/demo.png" width="500"></img>
+  <img src="./assets/images/demo_2.png" width="500"></img>
+</div>
 
 ## Introduction
 
